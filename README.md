@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently looking for a job
+- 🔭 I’m an Intern @ IBM
 - 👯 I’m looking to collaborate on developing landing pages
 - 🤔 I’m looking for help with algorithms
 - 😄 Pronouns: she/her
